@@ -1,0 +1,25 @@
+cd gitElisabth
+cd gitElisabeth
+git init
+git branch -M main
+git nano notas.txt
+nano notas.txt
+git add notas.txt
+git commit -m "Primer commit: archivo notas.txt creado"
+git branch rama-ideas
+git branch
+git cheakout rama-ideas
+git checkout  rama-ideas
+nano notas.txt
+git checkout  main
+nano notas.txt
+Idea 1: Mejorar la interfaz de usuario
+Idea 2: Agregar autenticación de usuarios
+git add notas.txt
+git commit -m "Agragamos comentario del equipo commit: archivo notas.txt creado"
+git merge rama-ideas
+cat notas.txt
+git branch -d rama-ideas
+git remote add origin https://github.com/Lzana/MiProyecto.git
+git push -u origin main
+history -a Elisabeth.txt
