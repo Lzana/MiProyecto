@@ -1,1 +1,11 @@
  | Esta en mi primer comentario | 
+
+
+Ideas de Desarrollo  
+-Planear la actualizacion del git 
+-Cordinar trabajo en equipo 
+- Mejorar la interfaz de usuario
+- Agregar autenticación de usuarios
+
+Notas del equipo 
+Se han cumplido con las espectativas 
